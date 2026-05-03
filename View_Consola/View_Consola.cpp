@@ -8,7 +8,7 @@ int main(array<System::String ^> ^args)
 
     //Sigo esperando que alguno de mis chicos me pongan su nombre de usuario
 
-    //Ya lo cloné
+    //Ya lo cloné :v
     //Estos cambios son hechos desde la nube de github
     return 0;
 }
