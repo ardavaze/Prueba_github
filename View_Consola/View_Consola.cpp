@@ -8,12 +8,9 @@ int main(array<System::String ^> ^args)
 
     //Sigo esperando que alguno de mis chicos me pongan su nombre de usuario
 
-    //Cambios de la rama Danny
+    //Ya lo cloné 
     // 
-    // 
-    // 
-    //Ya lo cloné
-    //Ya lo cloné :v
+    // ------ -Primera rama- -------
     //Estos cambios son hechos desde la nube de github
     return 0;
 }
